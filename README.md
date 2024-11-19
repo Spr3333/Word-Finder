@@ -1,0 +1,3 @@
+Recently, I've noticed the Wordle game trending frequently on social media, and it inspired me to recreate it in Unity. Unity's excellent 2D workflow made it an ideal choice for this project. I'm thrilled to share that I successfully completed the game, faithfully capturing its essence while adding my own creative touch.
+
+I plan to upload a video showcasing the game soon. This project not only allowed me to refine my 2D development skills but also gave me the opportunity to implement intuitive gameplay mechanics and polish the overall user experience. It was a fun and rewarding challenge that highlights my passion for creating engaging games.
